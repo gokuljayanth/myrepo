@@ -2,3 +2,4 @@ signup details
 Name - Gokul jayanth
 Age - 26
 location - Annur, coimbatore
+DOB - 19/08/1997
